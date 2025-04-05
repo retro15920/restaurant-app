@@ -1,8 +1,22 @@
-# React + Vite
+# Restaurant Reservation App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a full-stack web app that allows users to reserve tables at a restaurant online.
 
-Currently, two official plugins are available:
+## 👨‍💻 Developed By
+**Sarthak Gaur**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 Technologies Used
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+
+## ✨ Features
+- User login and registration
+- Table reservation system
+- Admin dashboard to manage bookings
+
+## 🚀 How to Run
+1. Clone the repo
+2. Run `npm install` in both client and server folders
+3. Run `npm start` to launch the app
